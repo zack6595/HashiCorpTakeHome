@@ -14,7 +14,7 @@ Read the style guide snippets, which is a subset of our official engineering sty
 
 Download the `terraform-getting-started.md` file. You can download the entire gist as as zip or by clicking the "Raw" button so that you can copy and paste the content. Before editing, commit the inital `terraform-getting-started.md` file to the repo that you have created for this project. 
 
-For this project, you will submit your changes as a [pull request](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github). Create a new branch where you will make your changes to the sample. 
+For this project, you will submit your changes as a pull request. If you are not familiar with the pull request process, review the documenation for [GitHub](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request), [GitLab](https://docs.gitlab.com/ee/user/project/merge_requests/creating_merge_requests.html), or [Bitbucket](https://support.atlassian.com/bitbucket-cloud/docs/create-a-pull-request-to-merge-your-change/). Create a new branch where you will make your changes to the sample. 
 
 ### Edit the sample
 
@@ -27,7 +27,7 @@ Now that your environment is set up, you can start to edit the sample on your lo
 - Add learning objectives to the introduction.
 - Add additional sections and content for both prerequisites and next steps. 
 
-## Submit your sample
+### Submit your sample
 
 - Commit your changes to the `terraform-getting-started.md` file and push to the repository.
 - Open a pull request. 
