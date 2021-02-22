@@ -5,7 +5,7 @@ Terraform is our tool for defining and provisioning infrastructure as code (IaC)
 
 ## Prerequisites
 
-- Docker
+- [Docker](https://www.docker.com/products/docker-desktop)
 
 ## Install Terraform
 
