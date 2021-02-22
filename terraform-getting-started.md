@@ -185,7 +185,7 @@ docker_container.nginx: Creation complete after 1s [id=5cf67155605bc1171a5c47975
 Apply complete! Resources: 1 added, 0 changed, 0 destroyed.
 ```
 
-</details>\
+</details>
 
 ## Destroy Terraform
 
@@ -286,7 +286,7 @@ Do you really want to destroy all resources?
 </details>
 <br>
 
-Next, type "yes" and hit ENTER. Terraform will destroy the resources it had created earlier. 
+Next, type "yes" and hit ENTER. Terraform will destroy the resources it had created earlier.
 
 <details>
 <summary>Click here for expected output</summary>
