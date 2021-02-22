@@ -286,7 +286,7 @@ Do you really want to destroy all resources?
 </details>
 <br>
 
-Next, type "yes" and hit ENTER. Terraform will destroy the resources it had created earlier. \
+Next, type "yes" and hit ENTER. Terraform will destroy the resources it had created earlier. 
 
 <details>
 <summary>Click here for expected output</summary>
